@@ -6,7 +6,7 @@ Projeto de uma **calculadora de IMC (Índice de Massa Corporal)** desenvolvido c
 
 ##  Acesse o Projeto Online
 
- [Clique aqui para ver a calculadora no ar](https://seu-usuario.github.io/calculadora-imc/)
+ [Clique aqui para ver a calculadora no ar](https://rickportela.github.io/calculadora-imc-responsiva/)
 
 
 ## Tecnologias Utilizadas
